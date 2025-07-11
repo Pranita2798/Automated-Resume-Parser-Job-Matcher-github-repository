@@ -255,25 +255,12 @@ interface JobMatch {
 - [Tailwind CSS Guide](https://tailwindcss.com/docs)
 - [Vite Documentation](https://vitejs.dev/guide)
 
-## 📞 Support
-
-- **Documentation**: Check this README and inline comments
-- **Issues**: Report bugs via GitHub Issues
-- **Discussions**: Join our GitHub Discussions
-- **Email**: support@resumematch-ai.com
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- React team for the amazing framework
-- Tailwind CSS for the utility-first approach
-- Lucide for beautiful icons
-- Open source community for inspiration and tools
-
----
 
 <div align="center">
   <strong>Built with ❤️ by the ResumeMatch AI Team</strong>
