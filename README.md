@@ -259,16 +259,3 @@ interface JobMatch {
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
-<div align="center">
-  <strong>Built with ❤️ by the ResumeMatch AI Team</strong>
-  <br>
-  <br>
-  <a href="https://github.com/yourusername/resumematch-ai">⭐ Star this repository</a>
-  •
-  <a href="https://github.com/yourusername/resumematch-ai/fork">🍴 Fork this repository</a>
-  •
-  <a href="https://github.com/yourusername/resumematch-ai/issues">🐛 Report a bug</a>
-</div>
